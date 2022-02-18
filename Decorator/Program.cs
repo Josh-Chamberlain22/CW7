@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Name: Joshua Chamberlain
+//Date: 02-17-2022
+//Description: Uses the decorater design pattern to add layers to a Text Field
+using System;
 
 namespace Decorator
 {
