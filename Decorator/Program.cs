@@ -3,7 +3,7 @@
 namespace Decorator
 {
    
-    //
+    //Contains interface Widget, allowing subclasses to draw. Tests different objects.
     class DecoratorDemo
     {
 
